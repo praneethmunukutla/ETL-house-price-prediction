@@ -1,4 +1,4 @@
-# ETL-house-price-prediction-
+# ETL-house-price-prediction
 Data warehousing and business Intelligence project  
 Analyzing large and complex datasets using SQL, without the need for a database administrator or the 
 need to set up and maintain complex infrastructures is one of the key aspects of business intelligence. Big 
